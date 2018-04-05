@@ -1,0 +1,4 @@
+com\ngfs\core\RESTConfiguration.class
+com\ngfs\customerinformation\Customer.class
+com\ngfs\customerinformation\CustomerResource$1.class
+com\ngfs\customerinformation\CustomerResource.class
